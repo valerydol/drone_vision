@@ -1,2 +1,6 @@
 # drone_vision
-opencv
+#opencv
+#RealTime
+#c++
+#multithreading
+#drone
